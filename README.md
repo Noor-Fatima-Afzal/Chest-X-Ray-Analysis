@@ -3,7 +3,7 @@
 A **Multimodal Retrieval-Augmented Generation (RAG)** application for **chest X-ray analysis**, leveraging OpenAI’s Groq LLM and CLIP (Contrastive Language-Image Pretraining) models to retrieve and analyze similar MIMIC-CXR reports.
 
 This project combines both **image** and **text** embeddings to provide clinically relevant interpretations of chest X-rays based on a user's question, incorporating retrieved similar cases to guide the LLM’s diagnostic analysis.
-![Multimodal RAG](image.png)
+
 ---
 
 ## 🚀 **Features**
@@ -13,7 +13,7 @@ This project combines both **image** and **text** embeddings to provide clinical
 - **MIMIC-CXR Dataset**: Built on a subset of the MIMIC-CXR dataset, containing annotated radiology reports for chest X-rays.
 - **Fast Similarity Search**: Uses **FAISS** (Facebook AI Similarity Search) to efficiently find similar past radiology cases based on embeddings.
 
-
+![Multimodal RAG](image.png)
 ## 📖 How to Use
 
 1. **Upload a Chest X-ray**: Click on the "Upload a chest X-ray" button to upload a chest X-ray in JPEG or PNG format.
