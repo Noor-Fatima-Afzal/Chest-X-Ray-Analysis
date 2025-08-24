@@ -13,17 +13,6 @@ This project combines both **image** and **text** embeddings to provide clinical
 - **MIMIC-CXR Dataset**: Built on a subset of the MIMIC-CXR dataset, containing annotated radiology reports for chest X-rays.
 - **Fast Similarity Search**: Uses **FAISS** (Facebook AI Similarity Search) to efficiently find similar past radiology cases based on embeddings.
 
-## 🔧 **Installation**
-
-To run this project, you need to set up a Python environment with all dependencies installed. Follow the steps below:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Noor-Fatima-Afzal/Chest-X-Ray-Analysis.git
-cd Chest-X-Ray-Analysis```
-
----
 
 ## 📖 How to Use
 
