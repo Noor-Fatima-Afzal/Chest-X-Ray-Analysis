@@ -21,7 +21,7 @@ To run this project, you need to set up a Python environment with all dependenci
 
 ```bash
 git clone https://github.com/Noor-Fatima-Afzal/Chest-X-Ray-Analysis.git
-cd Chest-X-Ray-Analysis
+cd Chest-X-Ray-Analysis```
 
 ---
 
